@@ -34,10 +34,15 @@ I am pursuing a career in cybersecurity driven by a strong interest in protectin
 
 ---
 
-## 🏆 Key Projects
+## 🤝 Contact Me
 
-- **[DNS Incident Response](Reports/dns-incident-report.pdf)**: A detailed report on detecting and responding to a DNS-based attack.
-- **[Internal IT Audit](Reports/internal-it-audit-botium.pdf)**: Security audit for an organization using Botium for vulnerability detection.
-- **[OS Hardening After Breach](Reports/os-hardening-compromise-report.pdf)**: Post-compromise hardening strategies to secure an OS and prevent future attacks.
-- **[Web Server DoS Mitigation](Reports/webserver-dos-summary.pdf)**: Summary of strategies to mitigate a DoS attack on a web server.
+Feel free to reach out if you’d like to:
+- Discuss cybersecurity & learning paths
+- Collaborate on a project
+- Chat about tech in general!
 
+👉 [My LinkedIn Profile](https://www.linkedin.com/in/manjeeshkv)
+
+---
+
+> Thanks for checking out my portfolio!
