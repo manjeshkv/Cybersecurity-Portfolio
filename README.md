@@ -4,7 +4,7 @@ Welcome to my Cybersecurity Portfolio. This repository showcases my work in cybe
 
 ## About
 
-This portfolio includes detailed reports on cybersecurity incidents and audits, showcasing my ability to identify, analyze, and mitigate security risks. My focus is on improving system resilience through incident response, vulnerability assessments, and post-breach hardening.
+I am pursuing a career in cybersecurity driven by a strong interest in protecting systems and data from evolving threats. I bring analytical thinking, attention to detail, and a commitment to continuous learning. With a foundation in Python, Linux, and cybersecurity tools, I am prepared to support secure, efficient environments. I value integrity, follow legal and ethical standards, and maintain professionalism through punctuality and reliability. My strengths and values align with the mission of organizations seeking trustworthy, skilled cybersecurity professionals.
 
 ## Tools & Platforms
 
@@ -20,11 +20,8 @@ This portfolio includes detailed reports on cybersecurity incidents and audits, 
   - **webserver-dos-summary.pdf**: Mitigation techniques for a Denial of Service attack on a web server.
   
 - **certifications/**
-  - **IIT_roorkee.jpg**: Certification from the Centre for Continuing Education, IIT Roorkee, acknowledging completion of relevant cybersecurity courses.  
+  - **IIT_roorkee.jpg**: Completion of Advanced Cybersecurity from IIT ROORKEE.  
     ![Certification](certifications/IIT_roorkee.jpg)
-
-- **Professional Statement/**
-  - **professional-statement.pdf**: A document outlining my professional journey, objectives, and values in cybersecurity.
 
 ## Key Projects
 
@@ -39,3 +36,4 @@ This portfolio includes detailed reports on cybersecurity incidents and audits, 
 
 - **Web Server DoS Mitigation**: Summary of strategies to mitigate a DoS attack on a web server.  
   [Download PDF](Reports/webserver-dos-summary.pdf)
+
