@@ -11,16 +11,20 @@ This portfolio includes detailed reports on cybersecurity incidents and audits, 
 - **Tools**: Metasploit, Wireshark, Nmap, Burp Suite, Botium
 - **Platforms**: Kali Linux, Windows Server, Linux
 
-## Repository Overview
+## Projects
 
-- **Reports/**: Contains technical reports on key cybersecurity activities.
+- **Reports/**
   - **dns-incident-report.pdf**: Analysis of a DNS-based attack and recovery process.
   - **internal-it-audit-botium.pdf**: Security audit using Botium for automated testing.
   - **os-hardening-compromise-report.pdf**: Steps taken to harden an OS after a security breach.
   - **webserver-dos-summary.pdf**: Mitigation techniques for a Denial of Service attack on a web server.
-- **certifications/**: Contains certifications that validate my skills and expertise in cybersecurity.
+  
+- **certifications/**
   - **IIT_roorkee.jpg**: Certification from the Centre for Continuing Education, IIT Roorkee, acknowledging completion of relevant cybersecurity courses.  
     ![Certification](certifications/IIT_roorkee.jpg)
+
+- **Professional Statement/**
+  - **professional-statement.pdf**: A document outlining my professional journey, objectives, and values in cybersecurity.
 
 ## Key Projects
 
@@ -35,9 +39,3 @@ This portfolio includes detailed reports on cybersecurity incidents and audits, 
 
 - **Web Server DoS Mitigation**: Summary of strategies to mitigate a DoS attack on a web server.  
   [Download PDF](Reports/webserver-dos-summary.pdf)
-
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Cybersecurity-Portfolio.git
