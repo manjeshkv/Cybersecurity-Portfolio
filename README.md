@@ -34,7 +34,7 @@ I am pursuing a career in cybersecurity driven by a strong interest in protectin
 
 ---
 
-## 🤝 Contact Me
+## 🤝 Connect with me
 
 Feel free to reach out if you’d like to:
 - Discuss cybersecurity & learning paths
