@@ -33,6 +33,35 @@ I am pursuing a career in cybersecurity driven by a strong interest in protectin
   ![Certification](certifications/IIT_roorkee.jpg)
 
 ---
+## Lab Reports
+
+### Recon & Enumeration Lab Report
+
+This lab demonstrates basic reconnaissance and enumeration between two virtual machines—Ubuntu (target) and Kali Linux (attacker)—using tools like `nmap` and `apache2` in a bridged network setup.
+
+**Environment:**
+- Host OS: Windows (VirtualBox)
+- Target VM: Ubuntu (Apache Web Server)
+- Attacker VM: Kali Linux
+- Network Mode: Bridged Adapter
+
+**Steps:**
+1. **Configure Ubuntu (Target)**
+   - Check IP: `ip a`
+   - Install Apache: `sudo apt install apache2`
+   - Start Apache: `sudo systemctl start apache2`
+   - Verify in browser: `http://<ubuntu-ip>`
+
+2. **Configure Kali Linux (Attacker)**
+   - Ping Ubuntu: `ping <ubuntu-ip>`
+   - Install Nmap: `sudo apt install nmap`
+   - Scan: `sudo nmap -sV <ubuntu-ip>`
+
+**Summary:**  
+Successfully performed reconnaissance and enumeration, scanned open ports, and verified the Apache web server.
+
+📄 [Read the full report](Reports/Recon_Enumeration_Lab_Report.pdf)
+
 
 ## 🤝 Connect with me
 
